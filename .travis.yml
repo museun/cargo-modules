@@ -1,2 +1,2 @@
 language: rust
-rust: none
+rust: nightly-2019-11-01
